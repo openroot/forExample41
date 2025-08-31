@@ -399,3 +399,6 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# forExample41 - Contract
+/54169180689676969582923010458/--forExample41/5_02025-08-31_13-00-54_05-30_/private/protected/
